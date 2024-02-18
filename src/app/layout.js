@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "treeview by sabrineh",
+  title: "Treeview by Sabrineh",
   description: "Generated for child parent treeview",
 };
 
